@@ -34,6 +34,9 @@ func Test_findDisappearedNumbers(t *testing.T) {
 			if got := findDisappearedNumbers(tt.args.nums); !reflect.DeepEqual(got, tt.want) {
 				t.Errorf("findDisappearedNumbers() = %v, want %v", got, tt.want)
 			}
+			if got := findDisappearedNumbersBestTry(tt.args.nums); !reflect.DeepEqual(got, tt.want) {
+				t.Errorf("findDisappearedNumbers() = %v, want %v", got, tt.want)
+			}
 		})
 	}
 }
