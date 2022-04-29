@@ -1,0 +1,172 @@
+Name;URL;Pattern;Difficulty;Premium;Companies
+Counting Bits;https://leetcode.com/problems/counting-bits/;Dynamic Programming,Dynamic Programming,Bit Manipulation,Bit Manipulation;Easy;false;Google,Google
+Missing Number;https://leetcode.com/problems/missing-number/;Arrays,Arrays,Bit Manipulation,Bit Manipulation;Easy;false;Microsoft,Facebook,Amazon,Google,Adobe,Adobe
+Find All Numbers Disappeared in an Array;https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/;Arrays,Arrays;Easy;false;Facebook,Amazon,Amazon
+Single Number;https://leetcode.com/problems/single-number/;Arrays,Arrays,Bit Manipulation,Bit Manipulation;Easy;false;Amazon,Microsoft,Adobe,Adobe
+Invert Binary Tree;https://leetcode.com/problems/invert-binary-tree/;DFS,DFS;Easy;false;Amazon,Google,Facebook,Adobe,Apple,Apple
+Subtree of Another Tree;https://leetcode.com/problems/subtree-of-another-tree/;DFS,DFS;Easy;false;Facebook,Amazon,Microsoft,Microsoft
+Lowest Common Ancestor of a Binary Search Tree;https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/;DFS,DFS;Easy;false;LinkedIn,Facebook,Microsoft,Google,Uber,Uber
+Merge Two Binary Trees;https://leetcode.com/problems/merge-two-binary-trees/;DFS,DFS;Easy;false;Amazon,Adobe,Adobe
+Diameter of Binary Tree;https://leetcode.com/problems/diameter-of-binary-tree/;DFS,DFS;Easy;false;Facebook,Amazon,Google,Bloomberg,Apple,Microsoft,Adobe,Adobe
+Maximum Depth of Binary Tree;https://leetcode.com/problems/maximum-depth-of-binary-tree/;DFS,DFS;Easy;false;LinkedIn,Google,Apple,Amazon,Amazon
+Path Sum;https://leetcode.com/problems/path-sum/;DFS,DFS;Easy;false;Amazon,Facebook,Oracle,Oracle
+Majority Element;https://leetcode.com/problems/majority-element/;Sorting,Sorting;Easy;false;Amazon,Facebook,Apple,Microsoft,Adobe,Adobe
+Same Tree;https://leetcode.com/problems/same-tree/;DFS,DFS;Easy;false;LinkedIn,Google,Microsoft,Amazon,Facebook,Apple,Adobe,Oracle,Oracle
+Minimum Depth of Binary Tree;https://leetcode.com/problems/minimum-depth-of-binary-tree/;BFS,BFS,DFS,DFS;Easy;false;Facebook,Goldman Sachs,Goldman Sachs
+Average of Levels in Binary Tree;https://leetcode.com/problems/average-of-levels-in-binary-tree/;BFS,BFS;Easy;false;Facebook,Amazon,Amazon
+Convert 1D Array Into 2D Array;https://leetcode.com/problems/convert-1d-array-into-2d-array/;Arrays,Arrays;Easy;false;Google,Google
+Two Sum;https://leetcode.com/problems/two-sum/;Two Pointers,Two Pointers;Easy;false;Amazon,Google,Adobe,Apple,Microsoft,Facebook,Bloomberg,Uber,Oracle,Morgan Stanley,Citadel,Salesforce,Goldman Sachs,JPMorgan,Snapchat,Snapchat
+Squares of a Sorted Array;https://leetcode.com/problems/squares-of-a-sorted-array/;Two Pointers,Two Pointers;Easy;false;Facebook,Amazon,Google,Adobe,Apple,Uber,Uber
+Backspace String Compare;https://leetcode.com/problems/backspace-string-compare/;Two Pointers,Two Pointers;Easy;false;Facebook,Amazon,Apple,Google,Microsoft,Microsoft
+Peak Index in a Mountain Array;https://leetcode.com/problems/peak-index-in-a-mountain-array/;Binary Search,Binary Search;Easy;false;Google,Amazon,Bloomberg,Facebook,Facebook
+Find Smallest Letter Greater Than Target;https://leetcode.com/problems/find-smallest-letter-greater-than-target/;Binary Search,Binary Search;Easy;false;LinkedIn,LinkedIn
+Contains Duplicate;https://leetcode.com/problems/contains-duplicate/;Arrays,Arrays;Easy;false;Amazon,Adobe,Google,Bloomberg,Facebook,Apple,Microsoft,Microsoft
+Meeting Rooms;https://leetcode.com/problems/meeting-rooms;Intervals,Intervals;Easy;true;Amazon,Microsoft,Facebook,Facebook
+Merge Two Sorted Lists;https://leetcode.com/problems/merge-two-sorted-lists/;Two Pointers,Two Pointers;Easy;false;Amazon,Facebook,Microsoft,Adobe,Google,Bloomberg,Apple,Uber,Uber
+Reverse Linked List;https://leetcode.com/problems/reverse-linked-list/;In-place reversal of a linked list,In-place reversal of a linked list;Easy;false;Microsoft,Bloomberg,Amazon,Facebook,Apple,Apple
+Binary Search;https://leetcode.com/problems/binary-search/;Binary Search,Binary Search;Easy;false;Adobe,Apple,Uber,Goldman Sachs,Goldman Sachs
+Remove Duplicates from Sorted List;https://leetcode.com/problems/remove-duplicates-from-sorted-list/;Fast & Slow Pointers,Fast & Slow Pointers;Easy;false;Amazon,Adobe,Facebook,Microsoft,Microsoft
+Remove Linked List Elements;https://leetcode.com/problems/remove-linked-list-elements/;Fast & Slow Pointers,Fast & Slow Pointers;Easy;false;Facebook,Microsoft,Microsoft
+Index Pairs of a String;https://leetcode.com/problems/index-pairs-of-a-string/;Trie,Trie;Easy;true;Amazon,Amazon
+Climbing Stairs;https://leetcode.com/problems/climbing-stairs/;Dynamic Programming,Dynamic Programming;Easy;false;Amazon,Microsoft,Google,Bloomberg,Apple,Adobe,Adobe
+Palindrome Linked List;https://leetcode.com/problems/palindrome-linked-list/;Fast & Slow Pointers,Fast & Slow Pointers;Easy;false;Facebook,Amazon,Microsoft,Intuit,Bloomberg,Bloomberg
+Best Time to Buy and Sell Stock;https://leetcode.com/problems/best-time-to-buy-and-sell-stock/;Greedy,Greedy;Easy;false;Amazon,Facebook,Apple,Adobe,Microsoft,Bloomberg,Snapchat,Goldman Sachs,Uber,Oracle,Google,BlackRock,Citadel,JPMorgan,Salesforce,Salesforce
+Maximum Subarray;https://leetcode.com/problems/maximum-subarray/;Dynamic Programming,Dynamic Programming;Easy;false;LinkedIn,Amazon,Adobe,Apple,Microsoft,Google,Bloomberg,Facebook,Uber,Oracle,Goldman Sachs,JPMorgan,JPMorgan
+Range Sum Query - Immutable;https://leetcode.com/problems/range-sum-query-immutable/;Dynamic Programming,Dynamic Programming;Easy;false;Facebook,Adobe,Adobe
+Middle of the Linked List;https://leetcode.com/problems/middle-of-the-linked-list/;Fast & Slow Pointers,Fast & Slow Pointers;Easy;false;Amazon,Apple,Microsoft,Adobe,Goldman Sachs,Goldman Sachs
+Linked List Cycle;https://leetcode.com/problems/linked-list-cycle/;Fast & Slow Pointers,Fast & Slow Pointers;Easy;false;Microsoft,Amazon,Bloomberg,Oracle,Facebook,Google,Google
+Combination Sum III;https://leetcode.com/problems/combination-sum-iii/;Backtracking,Backtracking;Medium;false;Google,Google
+Longest Increasing Subsequence;https://leetcode.com/problems/longest-increasing-subsequence/;Dynamic Programming,Dynamic Programming;Medium;false;Google,Amazon,Facebook,Microsoft,Apple,Bloomberg,Bloomberg
+Longest Palindromic Substring;https://leetcode.com/problems/longest-palindromic-substring/;Dynamic Programming,Dynamic Programming;Medium;false;Amazon,Microsoft,Adobe,Apple,Facebook,Google,Oracle,Salesforce,Bloomberg,LinkedIn,Tesla,Tesla
+Word Break;https://leetcode.com/problems/word-break/;Dynamic Programming,Dynamic Programming;Medium;false;Facebook,Amazon,Microsoft,Uber,Apple,Bloomberg,Qualtrics,Adobe,Google,Snapchat,Salesforce,Salesforce
+Combination Sum IV;https://leetcode.com/problems/combination-sum-iv/;Dynamic Programming,Dynamic Programming;Medium;false;Google,Amazon,Facebook,Facebook
+Decode Ways;https://leetcode.com/problems/decode-ways/;Dynamic Programming,Dynamic Programming;Medium;false;Amazon,Google,Snapchat,Lyft,Goldman Sachs,Microsoft,Bloomberg,JPMorgan,JPMorgan
+Unique Paths;https://leetcode.com/problems/unique-paths/;Dynamic Programming,Dynamic Programming;Medium;false;Google,Facebook,Amazon,Apple,Microsoft,Bloomberg,Bloomberg
+Jump Game;https://leetcode.com/problems/jump-game/;Dynamic Programming,Dynamic Programming,Greedy,Greedy;Medium;false;Amazon,Facebook,Uber,Oracle,Adobe,Microsoft,Bloomberg,Bloomberg
+Palindromic Substrings;https://leetcode.com/problems/palindromic-substrings/;Dynamic Programming,Dynamic Programming;Medium;false;Facebook,Microsoft,Google,Goldman Sachs,Goldman Sachs
+Number of Longest Increasing Subsequence;https://leetcode.com/problems/number-of-longest-increasing-subsequence/;Dynamic Programming,Dynamic Programming;Medium;false;Amazon,Google,Google
+Partition Equal Subset Sum;https://leetcode.com/problems/partition-equal-subset-sum/;Dynamic Programming,Dynamic Programming;Medium;false;Facebook,Google,Amazon,Microsoft,Uber,Apple,Bloomberg,Bloomberg
+Partition to K Equal Sum Subsets;https://leetcode.com/problems/partition-to-k-equal-sum-subsets/;Dynamic Programming,Dynamic Programming;Medium;false;LinkedIn,Facebook,Facebook
+Best Time to Buy and Sell Stock with Cooldown;https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/;Dynamic Programming,Dynamic Programming;Medium;false;Adobe,Bloomberg,Bloomberg
+Maximum Product Subarray;https://leetcode.com/problems/maximum-product-subarray/;Dynamic Programming,Dynamic Programming;Medium;false;LinkedIn,Amazon,Microsoft,Google,Apple,Facebook,Bloomberg,Bloomberg
+Coin Change;https://leetcode.com/problems/coin-change/;Dynamic Programming,Dynamic Programming;Medium;false;Amazon,Microsoft,Google,Apple,Apple
+House Robber II;https://leetcode.com/problems/house-robber-ii/;Dynamic Programming,Dynamic Programming;Medium;false;Amazon,Google,Google
+House Robber;https://leetcode.com/problems/house-robber/;Dynamic Programming,Dynamic Programming;Medium;false;Amazon,Microsoft,Google,Apple,Adobe,Qualtrics,Bloomberg,Facebook,Goldman Sachs,Goldman Sachs
+Maximum XOR of Two Numbers in an Array;https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array;Trie,Trie;Medium;false;Adobe,Adobe
+Generalized Abbreviation;https://leetcode.com/problems/generalized-abbreviation/;Backtracking,Backtracking;Medium;true;Google,Google
+Linked List Cycle II;https://leetcode.com/problems/linked-list-cycle-ii/;Fast & Slow Pointers,Fast & Slow Pointers;Medium;false;Microsoft,Amazon,Goldman Sachs,Oracle,Oracle
+Add Two Numbers;https://leetcode.com/problems/add-two-numbers/;Fast & Slow Pointers,Fast & Slow Pointers;Medium;false;Amazon,Bloomberg,Adobe,Microsoft,Facebook,Google,Apple,Uber,Capital One,Oracle,Oracle
+Remove Nth Node From End Of List;https://leetcode.com/problems/remove-nth-node-from-end-of-list/;Fast & Slow Pointers,Fast & Slow Pointers;Medium;false;Facebook,Microsoft,Amazon,Google,Apple,Apple
+Sort List;https://leetcode.com/problems/sort-list/;Fast & Slow Pointers,Fast & Slow Pointers;Medium;false;Facebook,Amazon,Apple,Uber,Uber
+Reorder List;https://leetcode.com/problems/reorder-list/;Fast & Slow Pointers,Fast & Slow Pointers;Medium;false;Amazon,Adobe,Facebook,Google,Snapchat,Uber,Uber
+Clone Graph;https://leetcode.com/problems/clone-graph/;BFS,BFS,DFS,BFS,BFS,DFS,Graph,Graph;Medium;false;Facebook,Microsoft,Amazon,Salesforce,Google,Twitter,Bloomberg,Oracle,Apple,Apple
+Pacific Atlantic Water Flow;https://leetcode.com/problems/pacific-atlantic-water-flow/;BFS,BFS,DFS,DFS;Medium;false;Google,Amazon,Microsoft,Facebook,Apple,Apple
+Number of Islands;https://leetcode.com/problems/number-of-islands/;BFS,BFS,DFS,BFS,BFS,DFS,Union Find,Union Find;Medium;false;Amazon,Microsoft,Bloomberg,Google,LinkedIn,Facebook,Apple,Oracle,Goldman Sachs,Salesforce,Lyft,Uber,Adobe,Qualtrics,Qualtrics
+Graph Valid Tree;https://leetcode.com/problems/graph-valid-tree/;BFS,BFS,DFS,BFS,BFS,DFS,Graph,BFS,BFS,DFS,BFS,BFS,DFS,Graph,Union Find,Union Find;Medium;true;LinkedIn,Google,Bloomberg,Bloomberg
+Letter Combinations of a Phone Number;https://leetcode.com/problems/letter-combinations-of-a-phone-number/;Backtracking,Backtracking;Medium;false;Amazon,Microsoft,Facebook,Google,Uber,Apple,Adobe,Twitter,Bloomberg,Oracle,Goldman Sachs,Snapchat,Intuit,Intuit
+Palindrome Partitioning;https://leetcode.com/problems/palindrome-partitioning/;Backtracking,Backtracking;Medium;false;Apple,Apple
+Reverse Linked List II;https://leetcode.com/problems/reverse-linked-list-ii/;In-place reversal of a linked list,In-place reversal of a linked list;Medium;false;Apple,Facebook,Amazon,Google,Adobe,Adobe
+Rotate List;https://leetcode.com/problems/rotate-list/;In-place reversal of a linked list,In-place reversal of a linked list;Medium;false;Amazon,LinkedIn,Microsoft,Adobe,Apple,Oracle,Oracle
+Swap Nodes in Pairs;https://leetcode.com/problems/swap-nodes-in-pairs/;In-place reversal of a linked list,In-place reversal of a linked list;Medium;false;Facebook,Amazon,Microsoft,Microsoft
+Odd Even Linked List;https://leetcode.com/problems/odd-even-linked-list/;In-place reversal of a linked list,In-place reversal of a linked list;Medium;false;Facebook,Microsoft,Bloomberg,Amazon,Adobe,Apple,Apple
+Longest Word in Dictionary;https://leetcode.com/problems/longest-word-in-dictionary/;Trie,Trie;Medium;false;Google,Google
+Target Sum;https://leetcode.com/problems/target-sum/;DFS,DFS,Dynamic Programming,Dynamic Programming;Medium;false;Facebook,Amazon,Microsoft,Adobe,Adobe
+Kth Smallest Element in a Sorted Matrix;https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/;Binary Search,Binary Search,Heap,Heap;Medium;false;Facebook,Amazon,Microsoft,Bloomberg,Bloomberg
+Find K Pairs with Smallest Sums;https://leetcode.com/problems/find-k-pairs-with-smallest-sums/;Heap,Heap;Medium;false;LinkedIn,Microsoft,Apple,Apple
+Container With Most Water;https://leetcode.com/problems/container-with-most-water/;Two Pointers,Two Pointers;Medium;false;Amazon,Microsoft,Google,Adobe,Bloomberg,Apple,Uber,Facebook,Facebook
+Sort Colours;https://leetcode.com/problems/sort-colors/;Two Pointers,Two Pointers;Medium;false;Microsoft,Amazon,Adobe,Facebook,Apple,Salesforce,Bloomberg,Bloomberg
+Generate Parentheses;https://leetcode.com/problems/generate-parentheses/;Backtracking,Backtracking;Medium;false;Amazon,Facebook,Microsoft,Apple,Bloomberg,Adobe,Uber,Google,Goldman Sachs,Goldman Sachs
+Merge Intervals;https://leetcode.com/problems/merge-intervals/;Intervals,Intervals;Medium;false;Amazon,Facebook,Microsoft,Salesforce,Google,Uber,Bloomberg,Adobe,Apple,LinkedIn,Twitter,Oracle,JPMorgan,Snapchat,Snapchat
+Interval List Intersections;https://leetcode.com/problems/interval-list-intersections/;Intervals,Intervals;Medium;false;Facebook,Uber,Google,Google
+Non-overlapping Intervals;https://leetcode.com/problems/non-overlapping-intervals/;Intervals,Intervals;Medium;false;Amazon,Facebook,Oracle,Oracle
+Meeting Rooms II;https://leetcode.com/problems/meeting-rooms-ii/;Heap,Heap,Intervals,Intervals;Medium;true;Amazon,Facebook,Bloomberg,Microsoft,Google,Oracle,Uber,Twitter,Snapchat,Qualtrics,Adobe,Quora,Goldman Sachs,Goldman Sachs
+Task Scheduler;https://leetcode.com/problems/task-scheduler/;Greedy,Greedy,Heap,Heap;Medium;false;Facebook,Google,Uber,Amazon,Microsoft,Salesforce,Salesforce
+Minimum Number of Arrows to Burst Balloons;https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/;Greedy,Greedy;Medium;false;Apple,Apple
+Insert Interval;https://leetcode.com/problems/insert-interval/;Intervals,Intervals;Medium;false;Amazon,Google,Facebook,LinkedIn,Microsoft,Twitter,Citadel,Citadel
+Subarrays with Product Less than K;https://leetcode.com/problems/subarray-product-less-than-k/;Two Pointers,Two Pointers;Medium;false;LinkedIn,Amazon,Microsoft,Microsoft
+Path Sum III;https://leetcode.com/problems/path-sum-iii/;DFS,DFS;Medium;false;Microsoft,Facebook,Google,Oracle,Oracle
+Combination Sum II;https://leetcode.com/problems/combination-sum-ii/;Backtracking,Backtracking;Medium;false;Facebook,Amazon,Amazon
+Combination Sum;https://leetcode.com/problems/combination-sum/;Backtracking,Backtracking;Medium;false;Facebook,Amazon,Airbnb,Apple,Adobe,Microsoft,LinkedIn,Goldman Sachs,Snapchat,Salesforce,Salesforce
+Find Minimum in Rotated Sorted Array;https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/;Binary Search,Binary Search;Medium;false;Facebook,Microsoft,Amazon,Bloomberg,Uber,Adobe,Apple,Apple
+Find Peak Element;https://leetcode.com/problems/find-peak-element/;Binary Search,Binary Search;Medium;false;Facebook,Amazon,Uber,Google,Microsoft,Microsoft
+Search in Rotated Sorted Array;https://leetcode.com/problems/search-in-rotated-sorted-array/;Binary Search,Binary Search;Medium;false;Microsoft,Amazon,LinkedIn,Facebook,Bloomberg,Adobe,Apple,Goldman Sachs,Oracle,Uber,Morgan Stanley,Morgan Stanley
+Search in Rotated Sorted Array II;https://leetcode.com/problems/search-in-rotated-sorted-array-ii/;Binary Search,Binary Search;Medium;false;LinkedIn,Amazon,Facebook,Microsoft,Microsoft
+Search a 2D Matrix;https://leetcode.com/problems/search-a-2d-matrix/;Binary Search,Binary Search;Medium;false;Amazon,Facebook,Bloomberg,Microsoft,Uber,Google,Apple,Apple
+Search a 2D Matrix II;https://leetcode.com/problems/search-a-2d-matrix-ii/;Binary Search,Binary Search;Medium;false;Microsoft,Amazon,Facebook,Apple,Uber,Uber
+Find K Closest Elements;https://leetcode.com/problems/find-k-closest-elements/;Binary Search,Binary Search;Medium;false;Facebook,Amazon,Google,Uber,Microsoft,Bloomberg,Bloomberg
+3 Sum Closest;https://leetcode.com/problems/3sum-closest/;Two Pointers,Two Pointers;Medium;false;Facebook,Amazon,Capital One,Apple,Google,Adobe,Microsoft,Oracle,Oracle
+Minimum Size Subarray Sum;https://leetcode.com/problems/minimum-size-subarray-sum/;Sliding Window,Sliding Window;Medium;false;Goldman Sachs,Facebook,Amazon,Google,Google
+Fruit Into Baskets;https://leetcode.com/problems/fruit-into-baskets/;Sliding Window,Sliding Window;Medium;false;Amazon,Amazon
+Permutation in String;https://leetcode.com/problems/permutation-in-string/;Sliding Window,Sliding Window;Medium;false;Oracle,Facebook,Facebook
+Longest Repeating Character Replacement;https://leetcode.com/problems/longest-repeating-character-replacement/;Sliding Window,Sliding Window;Medium;false;Facebook,Uber,Amazon,Adobe,Adobe
+3 Sum;https://leetcode.com/problems/3sum/;Two Pointers,Two Pointers;Medium;false;Amazon,Facebook,Apple,Microsoft,Adobe,Google,Bloomberg,Intuit,Qualtrics,Salesforce,Goldman Sachs,Uber,Oracle,Oracle
+Longest Substring Without Repeating Characters;https://leetcode.com/problems/longest-substring-without-repeating-characters/;Sliding Window,Sliding Window;Medium;false;Amazon,Microsoft,Bloomberg,Facebook,Adobe,Google,Apple,Uber,Goldman Sachs,Goldman Sachs
+Combinations;https://leetcode.com/problems/combinations/;Backtracking,Backtracking;Medium;false;Google,Facebook,Amazon,Amazon
+Permutations II;https://leetcode.com/problems/permutations-ii/;Backtracking,Backtracking;Medium;false;LinkedIn,Facebook,Amazon,Adobe,Apple,Apple
+Permutations;https://leetcode.com/problems/permutations/;Backtracking,Backtracking;Medium;false;Amazon,Facebook,LinkedIn,Bloomberg,Google,Microsoft,Adobe,Apple,Oracle,Oracle
+Subsets II;https://leetcode.com/problems/subsets-ii/;Backtracking,Backtracking;Medium;false;Facebook,Amazon,Bloomberg,Bloomberg
+Kth Smallest Element in a BST;https://leetcode.com/problems/kth-smallest-element-in-a-bst/;DFS,DFS;Medium;false;Amazon,Facebook,Facebook
+K Closest Points to Origin;https://leetcode.com/problems/k-closest-points-to-origin/;Heap,Heap;Medium;false;Facebook,Amazon,LinkedIn,Google,Asana,Asana
+Top K Frequent Elements;https://leetcode.com/problems/top-k-frequent-elements/;Heap,Heap;Medium;false;Facebook,Amazon,Bloomberg,Microsoft,Uber,Apple,Google,Adobe,Snapchat,Oracle,LinkedIn,LinkedIn
+Sort Characters By Frequency;https://leetcode.com/problems/sort-characters-by-frequency/;Heap,Heap;Medium;false;Amazon,Bloomberg,Facebook,Facebook
+Kth Largest Element in an Array;https://leetcode.com/problems/kth-largest-element-in-an-array/;Heap,Heap,QuickSelect,QuickSelect;Medium;false;Facebook,Amazon,LinkedIn,Microsoft,Google,Goldman Sachs,Uber,Oracle,Oracle
+Reorganize String;https://leetcode.com/problems/reorganize-string/;Greedy,Greedy,Heap,Heap;Medium;false;Amazon,Facebook,Google,Apple,Uber,Microsoft,Microsoft
+Implement Trie (Prefix Tree);https://leetcode.com/problems/implement-trie-prefix-tree/;Design,Design,Trie,Trie;Medium;false;Amazon,Twitter,Google,Facebook,Microsoft,Apple,Apple
+Validate Binary Search Tree;https://leetcode.com/problems/validate-binary-search-tree/;DFS,DFS;Medium;false;Amazon,Bloomberg,Microsoft,Facebook,Google,Adobe,Apple,Qualtrics,Lyft,Lyft
+Construct Binary Tree from Preorder and Inorder Traversal;https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/;DFS,DFS;Medium;false;Amazon,Microsoft,Adobe,Bloomberg,Apple,Apple
+Course Schedule;https://leetcode.com/problems/course-schedule/;BFS,BFS,DFS,BFS,BFS,DFS,Graph,BFS,BFS,DFS,BFS,BFS,DFS,Graph,Topological Sort,Topological Sort;Medium;false;Amazon,Microsoft,Facebook,Google,Oracle,Apple,Snapchat,Snapchat
+Course Schedule II;https://leetcode.com/problems/course-schedule-ii/;BFS,BFS,DFS,BFS,BFS,DFS,Graph,BFS,BFS,DFS,BFS,BFS,DFS,Graph,Topological Sort,Topological Sort;Medium;false;Amazon,Microsoft,Google,Facebook,Snapchat,Uber,Apple,Lyft,Bloomberg,Bloomberg
+Minimum Height Trees;https://leetcode.com/problems/minimum-height-trees/;BFS,BFS,Graph,BFS,BFS,Graph,Topological Sort,Topological Sort;Medium;false;Amazon,Facebook,Google,Microsoft,Microsoft
+Maximum Width of Binary Tree;https://leetcode.com/problems/maximum-width-of-binary-tree/;DFS,DFS;Medium;false;Amazon,Google,Bloomberg,Apple,Adobe,Adobe
+Sequence Reconstruction;https://leetcode.com/problems/sequence-reconstruction;Graph,Graph,Topological Sort,Topological Sort;Medium;true;Google,Google
+Binary Tree Level Order Traversal II;https://leetcode.com/problems/binary-tree-level-order-traversal-ii/;BFS,BFS;Medium;false;Amazon,Amazon
+Subsets;https://leetcode.com/problems/subsets/;Backtracking,Backtracking;Medium;false;Facebook,Amazon,Google,Bloomberg,Goldman Sachs,Adobe,Twitter,Twitter
+Letter Case Permutation;https://leetcode.com/problems/letter-case-permutation/;Backtracking,Backtracking;Medium;false;Microsoft,Microsoft
+Binary Tree Level Order Traversal;https://leetcode.com/problems/binary-tree-level-order-traversal/;BFS,BFS;Medium;false;LinkedIn,Amazon,Facebook,Bloomberg,Microsoft,Apple,Oracle,Google,Google
+Binary Tree Zigzag Level Order Traversal;https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/;BFS,BFS;Medium;false;Amazon,Facebook,Microsoft,Bloomberg,Google,Adobe,LinkedIn,Qualtrics,Salesforce,Salesforce
+Populating Next Right Pointers in Each Node;https://leetcode.com/problems/populating-next-right-pointers-in-each-node/;BFS,BFS;Medium;false;Facebook,Microsoft,Amazon,Bloomberg,Bloomberg
+Populating Next Right Pointers in Each Node II;https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/;BFS,BFS;Medium;false;Amazon,Bloomberg,Microsoft,Facebook,Facebook
+Binary Tree Right Side View;https://leetcode.com/problems/binary-tree-right-side-view/;BFS,BFS,DFS,DFS;Medium;false;Facebook,Bloomberg,Amazon,Oracle,Qualtrics,Adobe,Goldman Sachs,Goldman Sachs
+Maximum Binary Tree;https://leetcode.com/problems/maximum-binary-tree/;DFS,DFS;Medium;false;Amazon,Amazon
+Longest Consecutive Sequence;https://leetcode.com/problems/longest-consecutive-sequence/;Arrays,Arrays;Medium;false;Microsoft,Facebook,Amazon,Google,LinkedIn,Apple,Qualtrics,Goldman Sachs,Salesforce,Salesforce
+Word Search;https://leetcode.com/problems/word-search/;Backtracking,Backtracking;Medium;false;Amazon,Microsoft,Twitter,Facebook,Snapchat,Goldman Sachs,Google,Bloomberg,Apple,Adobe,Oracle,Qualtrics,Qualtrics
+Rotate Image;https://leetcode.com/problems/rotate-image/;Arrays,Arrays;Medium;false;Amazon,Facebook,Microsoft,Apple,Bloomberg,Uber,Google,Google
+Spiral Matrix;https://leetcode.com/problems/spiral-matrix/;Arrays,Arrays;Medium;false;Microsoft,Amazon,Facebook,Apple,Google,Oracle,Bloomberg,Intuit,Adobe,Adobe
+Set Matrix Zeroes;https://leetcode.com/problems/set-matrix-zeroes/;Arrays,Arrays;Medium;false;Facebook,Microsoft,Amazon,Apple,Adobe,Bloomberg,Oracle,Oracle
+Find All Duplicates in an Array;https://leetcode.com/problems/find-all-duplicates-in-an-array/;Arrays,Arrays;Medium;false;Amazon,Google,Google
+Find the Duplicate Number;https://leetcode.com/problems/find-the-duplicate-number/;Arrays,Arrays,Binary Search,Arrays,Arrays,Binary Search,Two Pointers,Two Pointers;Medium;false;Google,Microsoft,Amazon,Adobe,Bloomberg,Facebook,Apple,Apple
+Product of Array Except Self;https://leetcode.com/problems/product-of-array-except-self/;Arrays,Arrays;Medium;false;Facebook,Amazon,Asana,Microsoft,Apple,Lyft,Adobe,Google,Uber,Goldman Sachs,Oracle,Oracle
+Path Sum II;https://leetcode.com/problems/path-sum-ii/;DFS,DFS;Medium;false;Amazon,Google,Facebook,Adobe,Apple,Apple
+Number of Connected Components in an Undirected Graph;https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/;BFS,BFS,DFS,BFS,BFS,DFS,Graph,BFS,BFS,DFS,BFS,BFS,DFS,Graph,Union Find,Union Find;Medium;true;Amazon,LinkedIn,Facebook,Pinterest,Pinterest
+Lowest Common Ancestor of a Binary Tree;https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/;DFS,DFS;Medium;false;Facebook,Amazon,LinkedIn,Google,Microsoft,Adobe,Apple,Salesforce,Oracle,Bloomberg,Intuit,Intuit
+All Nodes Distance K in Binary Tree;https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/;BFS,BFS,DFS,DFS;Medium;false;Facebook,Amazon,Apple,Oracle,Oracle
+Alien Dictionary;https://leetcode.com/problems/alien-dictionary;Graph,Graph,Topological Sort,Topological Sort;Hard;true;Facebook,Google,Amazon,Airbnb,Pinterest,Uber,Microsoft,Microsoft
+Maximum Frequency Stack;https://leetcode.com/problems/maximum-frequency-stack/;Bucket Sort,Bucket Sort,Heap,Heap;Hard;false;Microsoft,Amazon,Apple,Facebook,Facebook
+Course Schedule III;https://leetcode.com/problems/course-schedule-iii/;Greedy,Greedy,Heap,Heap;Hard;false;Amazon,Amazon
+Rearrange String k Distance Apart;https://leetcode.com/problems/rearrange-string-k-distance-apart;Greedy,Greedy,Heap,Heap;Hard;true;Twitter,Twitter
+Binary Tree Maximum Path Sum;https://leetcode.com/problems/binary-tree-maximum-path-sum/;DFS,DFS;Hard;false;Facebook,Amazon,Google,Microsoft,Adobe,Bloomberg,Oracle,Snapchat,Snapchat
+Serialize and Deserialize Binary Tree;https://leetcode.com/problems/serialize-and-deserialize-binary-tree/;Design,Design;Hard;false;LinkedIn,Amazon,Microsoft,Facebook,Oracle,Uber,Adobe,Snapchat,Qualtrics,Google,Quora,Quora
+Word Search II;https://leetcode.com/problems/word-search-ii/;DFS,DFS,Trie,Trie;Hard;false;Amazon,Uber,Microsoft,Apple,Twitter,Snapchat,Facebook,Bloomberg,Google,Salesforce,Salesforce
+Find Median from Data Stream;https://leetcode.com/problems/find-median-from-data-stream/;Heap,Heap;Hard;false;Amazon,Microsoft,Apple,Facebook,Google,Bloomberg,Uber,Airbnb,Airbnb
+Substring with Concatenation of All Words;https://leetcode.com/problems/substring-with-concatenation-of-all-words/;Sliding Window,Sliding Window;Hard;false;Apple,Apple
+Minimum Window Substring;https://leetcode.com/problems/minimum-window-substring/;Sliding Window,Sliding Window;Hard;false;Facebook,Amazon,LinkedIn,Snapchat,Google,Lyft,Adobe,Adobe
+Count Unique Characters of All Substrings of a Given String;https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/;Sliding Window,Sliding Window;Hard;false;Amazon,Amazon
+Minimum Number of K Consecutive Bit Flips;https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/;Sliding Window,Sliding Window;Hard;false;Adobe,Adobe
+Sliding Window Maximum;https://leetcode.com/problems/sliding-window-maximum/;Sliding Window,Sliding Window;Hard;false;Amazon,Facebook,Goldman Sachs,Citadel,Google,Uber,Microsoft,Salesforce,Apple,Twitter,Atlassian,Atlassian
+Count of Range Sum;https://leetcode.com/problems/count-of-range-sum/;Binary Search,Binary Search;Hard;false;Google,Google
+Employee Free Time;https://leetcode.com/problems/employee-free-time/;Heap,Heap,Greedy,Greedy;Hard;true;Pinterest,Amazon,Airbnb,Snapchat,Google,Facebook,Apple,Oracle,Uber,Uber
+Smallest Range Covering Elements from K Lists;https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/;Heap,Heap;Hard;false;Google,Amazon,Microsoft,Pinterest,Pinterest
+Trapping Rain Water;https://leetcode.com/problems/trapping-rain-water/;Two Pointers,Two Pointers;Hard;false;Facebook,Amazon,Goldman Sachs,Microsoft,Adobe,Google,Bloomberg,Qualtrics,Snapchat,Lyft,Uber,Apple,Citadel,Tesla,Tesla
+Merge k Sorted Lists;https://leetcode.com/problems/merge-k-sorted-lists/;Heap,Heap;Hard;false;Facebook,Amazon,Microsoft,Google,Apple,Bloomberg,Adobe,Uber,Qualtrics,Oracle,Oracle
+Reverse Nodes in k-Group;https://leetcode.com/problems/reverse-nodes-in-k-group/;In-place reversal of a linked list,In-place reversal of a linked list;Hard;false;Capital One,Microsoft,Amazon,Google,Facebook,Snapchat,Oracle,Oracle
+N-Queens;https://leetcode.com/problems/n-queens/;Backtracking,Backtracking;Hard;false;Amazon,Microsoft,Apple,Facebook,Uber,Goldman Sachs,Adobe,Adobe
+Sudoku Solver;https://leetcode.com/problems/sudoku-solver/;Backtracking,Backtracking;Hard;false;Google,Intuit,Amazon,Apple,Uber,Bloomberg,Bloomberg
+Concatenated Words;https://leetcode.com/problems/concatenated-words/;Trie,Trie;Hard;false;Amazon,Microsoft,Microsoft
+Prefix and Suffix Search;https://leetcode.com/problems/prefix-and-suffix-search/;Trie,Trie;Hard;false;Google,Google
+Palindrome Pairs;https://leetcode.com/problems/palindrome-pairs/;Trie,Trie;Hard;false;Airbnb,Facebook,Google,Google
+Design Search Autocomplete System;https://leetcode.com/problems/design-search-autocomplete-system/;Trie,Trie;Hard;true;Amazon,Google,Microsoft,Uber,Bloomberg,Twitter,Twitter
+Word Squares;https://leetcode.com/problems/word-squares/;Trie,Trie;Hard;true;Bloomberg,Oracle,Google,Google
+Sort Items by Groups Respecting Dependencies;https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/;DFS,DFS,Graph,DFS,DFS,Graph,Topological Sort,Topological Sort;Hard;false;Apple,Apple
+Median of Two Sorted Arrays;https://leetcode.com/problems/median-of-two-sorted-arrays/;Binary Search,Binary Search;Hard;false;Amazon,Goldman Sachs,Microsoft,Google,Adobe,Facebook,Apple,Bloomberg,Oracle,Oracle
+First Missing Positive;https://leetcode.com/problems/first-missing-positive/;Arrays,Arrays;Hard;false;Amazon,Microsoft,Facebook,Google,Adobe,Apple,Apple
+Sliding Window Median;https://leetcode.com/problems/sliding-window-median/;Heap,Heap;Hard;false;Facebook,Amazon,Amazon
