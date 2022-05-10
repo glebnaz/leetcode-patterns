@@ -1,5 +1,9 @@
 package maximum_subarray
 
+// решение с "разделяй и властвуй я так и не смог реализовать"
+
+//https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/ тут подсказка
+
 func maxSubArray(nums []int) int {
 	maxSubSum := nums[0]
 
