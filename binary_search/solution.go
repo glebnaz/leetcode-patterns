@@ -3,7 +3,31 @@ package binary_search
 const notFound = -1
 
 func search(nums []int, target int) int {
-	return bs(nums, 0, len(nums)-1, target)
+	//by cycle
+
+	start := 0
+	end := len(nums) - 1
+
+	var mid int
+
+	for end >= start {
+		//сдвиг плюс расстояние между началом и концом, деленное на два
+		mid = start + (end-start)/2
+		if nums[mid] == target {
+			return mid
+		}
+
+		if nums[mid] > target {
+			end = mid - 1
+		} else {
+			start = mid + 1
+		}
+	}
+
+	return notFound
+
+	//by recursion
+	//return bs(nums, 0, len(nums)-1, target)
 }
 
 func bs(arr []int, start, end, target int) int {
