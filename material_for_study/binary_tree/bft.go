@@ -2,13 +2,7 @@ package binary_tree
 
 import "fmt"
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
-func averageOfLevels(root *TreeNode) []float64 {
+func bft(root *TreeNode) []float64 {
 	var res []float64
 
 	if root == nil {
